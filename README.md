@@ -16,7 +16,7 @@ This project is a simple Netflix-like application developed using Vue.js and Pin
 1. Navigate to the project folder:
 
     ```bash
-    cd netflix-clone
+    cd NetflixTV-Clone
     ```
 
 2. Install dependencies:
